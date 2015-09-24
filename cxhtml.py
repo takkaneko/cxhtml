@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # cxhtml.py
 # Collapsible Expandable HTML Converter
 # Single paste for automatically generating an html version of
